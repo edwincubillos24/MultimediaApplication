@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GrabadoraAudio</string>
+    <string name="grabar">Grabar</string>
+    <string name="grabadora">Grabadora</string>
+    <string name="stop">Stop</string>
+    <string name="play">Play</string>
+</resources>
